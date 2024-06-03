@@ -1,0 +1,18 @@
+.odd {
+    background-color: rgb(236, 111, 129);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#oneID {
+    color: blue;
+    font-size: 36px;
+}
+
+#secondID {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+.add {
+    font-size: 24px;
+}
